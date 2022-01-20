@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JovuanMichaels
-- 👀 I’m interested in learning A+ and then security +
-- 🌱 I’m currently learning to build my own pc
+- 👀 I’m interested in learning A+, security +. My goal is to learn information security. 
+- 🌱 I’m currently learning to build my own pc to create my own experience employers look for.
 - 💞️ I’m looking to collaborate with individuals who share the same interests 
 - 📫 How to reach me on LinkedIn ( Shauna Marrero) or email Missmarrero@yahoo.com 
 
